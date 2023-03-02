@@ -1,6 +1,13 @@
-# BasicJS. Data structures
+# Task: BasicJS. Data structures
 
-⚠️ DO NOT SUBMIT PULL REQUESTS TO THIS REPO ⚠️
+⚠️ DO NOT SUBMIT PULL REQUESTS TO [THIS](https://github.com/AlreadyBored/basic-js-ds) REPO ⚠️
+
+---
+
+## Stack
+* JavaScript (ES6)
+* Webpack
+* Git
 
 ---
 
@@ -12,14 +19,6 @@
 5. To install all dependencies use [`npm install`](https://docs.npmjs.com/cli/install)  
 6. Run `npm run test` in command line.
 7. You will see the number of pending, passing and failing tests. 100% of passing tests is equal to max score for the task
-
----
-
-#### Submit to [rs app](https://app.rs.school)
-1. Open [rs app](https://app.rs.school) and login
-2. Go to submit task page
-3. Select your task (BasicJS Data Structures)
-4. Press the submit button and enjoy
 
 ---
 
