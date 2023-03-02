@@ -33,7 +33,7 @@ Your task is to deal with some data structures to solve the subtasks. Subtasks d
 
 ---
 
-### **Binary search tree**
+### ✅ [**Binary search tree**](https://github.com/Tatty13/basic-js-ds/blob/master/src/binary-search-tree.js)
 
 ![Binary search tree](https://www.tutorialspoint.com/data_structures_algorithms/images/binary_search_tree.jpg)  
 A **binary tree** is a hierarchical **data structure** in which each **node** has a **value** (in this case, it is also a key) and **links** to the **left** and **right** **children**. The **node** that is at the topmost level (which is not someone else's child) is called the **root**. **Nodes** that have no children are called **leaves**.
@@ -81,7 +81,7 @@ Write your code in `src/binary-search-tree.js`.
 ---
 
 
-### **Remove from list**
+### ✅ [**Remove from list**](https://github.com/Tatty13/basic-js-ds/blob/master/src/remove-from-list.js)
 Given a **singly linked list** of integers `l` and an integer `k`, remove all elements from list `l` that have a value equal to `k`.
 
 For example, for `l` = `[3, 1, 2, 3, 4, 5]` and `k` = `3`,
@@ -102,7 +102,7 @@ Write your code in `src/remove-from-list.js`.
 
 ---
 
-### **Stack**
+### ✅ [**Stack**](https://github.com/Tatty13/basic-js-ds/blob/master/src/stack.js)
 Implement the **Stack** with a given interface via **array**.
 
 For example:
@@ -120,7 +120,7 @@ Write your code in `src/stack.js`.
 
 ---
 
-### **Queue**
+### ✅  [**Queue**](https://github.com/Tatty13/basic-js-ds/blob/master/src/queue.js)
 Implement the **Queue** with a given interface via **linked list** (use `ListNode` extension).
 Each instance of queue must have 3 methods:
     * `enqueue(value)` — puts the `value` at the end of the **queue** 
